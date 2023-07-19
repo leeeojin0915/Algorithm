@@ -1,8 +1,13 @@
 package com.company;
 
 import java.util.Scanner;
-
-//대소문자 변환
+/**
+ *
+ *
+ * 대소문자 변환
+ *
+ *
+ */
 //문자열 입력 시, 대문자는 소문자, 소문자는 대문자로 변환
 //AppLe -> aPPlE
 class Case2 {

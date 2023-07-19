@@ -2,9 +2,14 @@ package com.company;
 
 import java.util.Scanner;
 
+/**
+ *
+ * 문장 속 단어
+ *
+ */
 class Case3 {
     public String solution(String str) {
-//        String[] a = str.split(" ");
+//        String[] a = str.split(" ");sub_welcome1
 //        int min = 0;
 //        String ans = "";
 //        for (int i = 0; i < a.length; i++) {

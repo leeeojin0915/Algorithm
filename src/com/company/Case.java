@@ -1,7 +1,11 @@
 package com.company;
 
 import java.util.Scanner;
-
+/**
+ *
+ * 문자찾기
+ *
+ */
 class Case {
     public int solution(String str, char t) {
         int answer = 0;

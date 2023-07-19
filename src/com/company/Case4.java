@@ -3,6 +3,10 @@ package com.company;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * 단어 뒤집기
+ *
+ */
 public class Case4 {
     public ArrayList<String> solution(String[] str){
         ArrayList<String> ans = new ArrayList<>();

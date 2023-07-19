@@ -2,6 +2,9 @@ package com.company;
 
 import java.util.Scanner;
 
+/**
+ * 특정문자뒤집기력
+ */
 public class Case5 {
     public String solution(String str) {
         char[] ch = str.toCharArray();

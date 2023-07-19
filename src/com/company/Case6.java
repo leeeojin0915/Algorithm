@@ -2,6 +2,11 @@ package com.company;
 
 import java.util.Scanner;
 
+/**
+ *
+ * 중복문자제거
+ *
+ */
 public class Case6 {
     public String solution(String str){
         String ans = "";

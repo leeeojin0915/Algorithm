@@ -2,6 +2,11 @@ package com.company;
 
 import java.util.Scanner;
 
+/**
+ *
+ * 회문 문자열
+ *
+ */
 public class Case7 {
     public String solution(String str) {
         String ans = "YES";

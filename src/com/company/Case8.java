@@ -2,6 +2,11 @@ package com.company;
 
 import java.util.Scanner;
 
+/**
+ *
+ * 유효한 팰린드롬
+ *
+ */
 public class Case8 {
     public String solution(String str){
         String answer = "NO";
